@@ -2,4 +2,3 @@ Este es un texto de ejemplo para hacer Pull/Push
 Agregando...
 Otro texto
 Cambio desde aca
-Cambio local
