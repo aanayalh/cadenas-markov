@@ -1,8 +1,9 @@
 library(markovchain)
 
-#E0= máquinas funcionando al principio del día.
-#E1= 1 máquina descompuesta en un día.
-#E2= 2 máquinas funcionando dos días después de descompuesta. 
+#Probando Cambios Git
+#E0= mÃ¡quinas funcionando al principio del dÃ­a.
+#E1= 1 mÃ¡quina descompuesta en un dÃ­a.
+#E2= 2 mÃ¡quinas funcionando dos dÃ­as despuÃ©s de descompuesta. 
 
 #matriz de Transicion
 estados<-c("e0","e1","e2")
